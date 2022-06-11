@@ -1,0 +1,11 @@
+2. Portfolio App
+
+This app built using NodeJS focuses on the collection and management of data be it an income portfolio, growth portfolio, or any other. It consists of the server which provides data on request, the database which organizes the information, and the application that channels it. The server should respond with the request made by the client. Here, you can also use CRUD operation to create, read, update and delete entries. It should have a display feature to display the updated data. The user’s profile to manage personal information should also be encrypted.
+
+Features of Portfolio App:
+
+Manages the data.
+Data Analysis to produce the appropriate output. 
+Secure the app by deploying physical database security.
+A Submit button to submit all the details entered by the user.
+Defining separate routes for each navigation.
